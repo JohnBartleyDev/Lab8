@@ -1,4 +1,5 @@
-﻿
+﻿all images are in the screenshot folder
+
 
 
 checkpoint 2:
